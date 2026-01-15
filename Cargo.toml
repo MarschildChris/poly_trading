@@ -1,0 +1,12 @@
+[package]
+name = "poly_rust"
+version = "0.1.0"
+edition = "2024"
+
+
+[dependencies]
+polymarket-client-sdk = { version = "0.4.1", features = ["clob"] }
+tokio = { version = "1", features = ["full"] }
+anyhow = "1"
+
+
