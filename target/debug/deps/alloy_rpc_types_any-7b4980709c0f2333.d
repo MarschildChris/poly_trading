@@ -1,0 +1,9 @@
+/home/shieu/poly_trading/target/debug/deps/alloy_rpc_types_any-7b4980709c0f2333.d: /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/lib.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/transaction/mod.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/transaction/receipt.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/block.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/../README.md
+
+/home/shieu/poly_trading/target/debug/deps/liballoy_rpc_types_any-7b4980709c0f2333.rmeta: /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/lib.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/transaction/mod.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/transaction/receipt.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/block.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/../README.md
+
+/home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/lib.rs:
+/home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/transaction/mod.rs:
+/home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/transaction/receipt.rs:
+/home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/block.rs:
+/home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rpc-types-any-1.4.3/src/../README.md:

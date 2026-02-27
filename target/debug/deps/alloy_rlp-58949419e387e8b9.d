@@ -1,0 +1,10 @@
+/home/shieu/poly_trading/target/debug/deps/alloy_rlp-58949419e387e8b9.d: /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/lib.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/decode.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/error.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/encode.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/header.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/../README.md
+
+/home/shieu/poly_trading/target/debug/deps/liballoy_rlp-58949419e387e8b9.rmeta: /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/lib.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/decode.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/error.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/encode.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/header.rs /home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/../README.md
+
+/home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/lib.rs:
+/home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/decode.rs:
+/home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/error.rs:
+/home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/encode.rs:
+/home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/header.rs:
+/home/shieu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-rlp-0.3.12/src/../README.md:
