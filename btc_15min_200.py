@@ -11,7 +11,7 @@ SYMBOL = "BTCUSDT"
 try:
     pygame.mixer.init()
     SOUND_ENABLED = True
-    pygame.mixer.music.load("warning.mp3")
+    pygame.mixer.music.load("signal.mp3")
 except pygame.error:
     print("⚠️ Audio device not found, sound disabled")
     SOUND_ENABLED = False
@@ -21,20 +21,20 @@ last_price_data = None
 last_fetch_time = 0
 fetch_interval = 1  # seconds between API calls (Binance allows frequent requests)
 
-# 5-minute frame tracking variables
+# 15-minute frame tracking variables
 current_frame_start_time = None
 frame_start_price = None
 signal_triggered = False
-price_threshold = 180  # Price change threshold in USD
+price_threshold = 200  # Price change threshold in USD
 
 # Logging
 log_file = "btc_usd_live.log"
 last_logged_timestamp = None
 
-def get_current_5min_frame():
-    """Get the start time of the current 5-minute frame"""
+def get_current_15min_frame():
+    """Get the start time of the current 15-minute frame"""
     now = datetime.now()
-    minutes = (now.minute // 5) * 5
+    minutes = (now.minute // 15) * 15
     frame_start = now.replace(minute=minutes, second=0, microsecond=0)
     return frame_start
 
@@ -99,7 +99,7 @@ def log_output(message):
         f.write(message + "\n")
 
 if __name__ == "__main__":
-    log_output("Starting 5-minute BTC/USDT (Binance Perpetual) frame tracking...")
+    log_output("Starting 15-minute BTC/USDT (Binance Perpetual) frame tracking...")
     log_output(f"Signal threshold: ±${price_threshold} price change per frame")
     log_output("-" * 80)
     
@@ -112,8 +112,8 @@ if __name__ == "__main__":
                 
                 last_logged_timestamp = timestamp
                 
-                # Get current 5-minute frame
-                frame_start = get_current_5min_frame()
+                # Get current 15-minute frame
+                frame_start = get_current_15min_frame()
                 
                 # Initialize new frame or reset if frame changed
                 if current_frame_start_time is None or frame_start != current_frame_start_time:
